@@ -1,0 +1,5 @@
+- Stat points, along with specializations, are how you will refine your character throughout the course of the story. There are four main stats that can be invested into, which are as follows:
+- [[Ability]]
+- [[Durability]]
+- [[Energy]]
+- [[Agility]]

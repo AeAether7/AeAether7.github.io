@@ -1,0 +1,1 @@
+- Moves with this tag will only hit one enemy at a time.

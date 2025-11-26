@@ -1,0 +1,3 @@
+- Raptor is a aerial based [[Specialization]] with emphasis on crowd control. What it lacks in defense is compensated for with mobility and overwhelming firepower
+- ## Abilities
+	- [[Raptor Chassis]]

@@ -1,0 +1,7 @@
+- Specialization is basically the class that your character is. Each specialization is unique, and you are encouraged to create your own and experiment with ideas.
+- Below is a list of sample specializations that other characters in the story use. You are free to copy them if you wish, but they are mainly here to act as inspiration if you need examples or ideas on where to go with your character.
+- [[Reaper]], belonging to Rafaela Silva
+- [[Railgunner]], belonging to Kiyara Rin
+- [[Vandal]], belonging to Lynn Io
+- [[Judge]], belonging to Judith Watson
+- [[Raptor]], belonging to Ithaca
