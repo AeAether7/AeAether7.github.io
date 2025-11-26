@@ -6,5 +6,5 @@
 -
 - ## Aether Reminder: How to Publish Changes
 	- 1: Git Add
-	- 2: Git Commit
+	- 2: Git Commit -m "Commit"
 	- 3: Git Push
