@@ -1,0 +1,10 @@
+- Perks are additional bonuses that your character can receive based on their stats. They are kind of similar to talents
+- ## Current Perk Count: 2
+- ## Strength Perks
+- ## Durability Perks
+	- Sturdy: You cannot lose more then 25% of Max HP in a single turn
+		- Requirements: 20 Durability
+- ## Agility Perks
+	- Rapid Engage: Your Initiative roll is modified from 1D20 to 1D18+2
+		- Requirements: 3 Agility
+- ## Energy Perks
