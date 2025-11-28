@@ -3,9 +3,11 @@
 - [[Stat Points & Levels]]
 - [[Status Effects & Damage Types]]
 - [[Perks]]
-- [[Example Sheet]]
+- [[Character Format]]
 - ## Combat
 - [[Combat System]]
+- ## Other
+- [[NPC List]]
 -
 - ## Aether Reminder: How to Publish Changes
 	- 1: Git Add

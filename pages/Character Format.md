@@ -1,0 +1,24 @@
+- Name:
+- Height:
+- Age:
+- Nationality:
+- ---
+- Personality:
+	-
+- Backstory:
+	-
+- ---
+- ### Specialization:
+	- Description here
+- ### Level: 1
+	- Strength:
+	- Durabilty:
+	- Agility:
+	- Energy:
+- ### Perks:
+	-
+- ### Abilities:
+	-
+- ---
+- ### Image
+	-

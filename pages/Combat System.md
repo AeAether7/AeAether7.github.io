@@ -20,7 +20,6 @@
 	- Villain 1 is inflicted with Bleeding(1)
 	  Villain 2 is inflicted with Bleeding(3)
 - ## Part 4: Defending State
-  collapsed:: true
 	- Now it is the villains turn to attack. After the villain team chooses which attacks to use, the hero team can decide how they want to attempt to defend from the attacks.
 	- Villain 1 is using Evil Drain with a roll of 16 aimed at Hero 1
 	  Villain 1 is using Wicked Blow with a roll of 12 aimed at Hero 2
