@@ -9,6 +9,7 @@
 	- The Hero team rolled an average of 12 while the villain team rolled an average of 11, so even though Villain 1 rolled higher then both of the hero NPCS, The hero team gets to take the first action.
 	- This step is only done once per combat encounter!
 - ## Part 2: Attacking State
+  collapsed:: true
 	- Since the hero team rolled a higher average action value then the villain team, they are the first to enter the attacking state. While in the attacking state, the hero team can choose to use any of their abilities to freely attack the villain team. Since Hero 1 rolled above the average value for the hero team, they get to choose 2 skills to use, while Hero 2 only gets to use a single skill.
 	- Hero 1 uses Justice Slash and does 8 damage to Villain 1!
 	  Hero 1 uses Energy Wave and does 18 damage to Villain 2!
