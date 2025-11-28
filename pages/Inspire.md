@@ -1,3 +1,5 @@
+tags:: Vandal, Support
+
 - Requirements: [[Spraycan]]
 - > The user creates a hasty mural on the wall that inspires allies, increasing their combat abilities.
   "What? Yeah, trust me bro, it works. Don't ask how, it just does. Magic and shit, ya feel me?"

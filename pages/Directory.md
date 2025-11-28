@@ -1,9 +1,11 @@
 ## Character Creation Tools
 - [[Specialization]]
 - [[Stat Points & Levels]]
-- [[Status Effects]]
+- [[Status Effects & Damage Types]]
 - [[Perks]]
 - [[Example Sheet]]
+- ## Combat
+- [[Combat System]]
 -
 - ## Aether Reminder: How to Publish Changes
 	- 1: Git Add

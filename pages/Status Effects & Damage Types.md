@@ -1,0 +1,34 @@
+# Damage Types
+collapsed:: true
+	-
+- # Status Effects
+	- Status effects represent temporary or lasting conditions applied during combat, ranging from impairments to buffs. They can alter damage taken or dealt, modify turn order, restrict actions, enhance abilities, or evolve into stronger effects if ignored.
+	- Status effects have two factors, which are **Potency** and **Duration**. Potency determines how strong the effect is, and duration determines how long it lasts. Some durations are not turn values, but instead listed as things such as "until repaired" or "until prior status are removed"
+	- ### Tier 1
+		- Taunt: Applied through various skills. The ally/enemy with the highest taunt potency is the only applicable target for that team. Next turn, remove all taunt potency.
+		  collapsed:: true
+			- If two or more enemies have equal Aggro stacks, players can freely choose which of the acceptable targets to attack.
+		- Bleeding: [[Slashing]]/[[Piercing]] Status applied when either taking more then 5% of Max HP in a single instance of slash-type/pierce-type damage, or when hit with 2+ slash/pierce skills in a single turn. Next turn, take typeless damage equal to current bleed stacks and remove 1 bleed stack.
+			- Duration: 2 turns, refreshed if bleed is reapplied
+		- Dazed: [[Crushing]] Status applied when either taking more then 5% of Max HP in a single instance of blunt-type damage, or when hit with 2+ blunt skills in a single turn. Next turn, reduce action speed by 2 per potency
+			- Duration: 1 turn
+			- If action speed is reduced to 0, the target is inflicted with [Stunned]
+	- ### Tier 2
+	- ### Tier 3
+		- Stunned: [[Crushing]] Status applied when action speed is reduced to 0. Next turn, the targets attack phase is skipped and the stunned target rerolls for their new action speed.
+			- Duration: 1 turn
+	- ### Tier 4
+		- Dismembered: [[Slashing]] Status applied when taking more than 33% of Max HP in a single instance of slash-type damage. Results in limb loss, limb is determined by [1dx] where x is the number of total limbs the target has. The head/neck is not counted as a limb, and cannot be targeted by this status.
+			- Duration: Until Repaired
+			- The limb loss roll rolls for limbs in a clockwise direction from the attackers perspective. For example if you rolled for a human, it would be a 1d4. 1 would be the left arm, 2 would be the left leg, 3 would be the right leg, and 4 would be the right arm.
+			- If all limbs have been lost, [Dismembered] is converted into [Decapitated]
+		- Crippled: Status applied when a leg is disabled due to another status (Dismembered, Pulverized, etc.). While this status is active, [[Agility]] is set to 0 and all agility perks are disabled.
+			- Duration: Until
+	- ### Tier 5
+		- Decapitated: [[Slashing]] Status applied when taking more than 100% of Max HP in a single instance of slash-type damage. When this status is applied, the target instantly dies and revival effects are nullified.
+			- Duration: Until repaired
+		- Obliterated: [[Crushing]] Status applied when taking more than 100% of Max HP in a single instance of crush-type damage. When this status is applied, the target instantly dies and revival effects are nullified.
+			- Duration: Until repaired
+	- ## Unique Status
+		- ### Vandal
+			- Tagged: Applied through [[Tattoo]]
