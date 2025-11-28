@@ -2,4 +2,4 @@
 - ## Lynn's Abilities
 	- [[Spraycan]]
 	- [[Inspire]]
-	-
+	- [[Tattoo]]
