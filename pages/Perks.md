@@ -1,5 +1,7 @@
-- Perks are additional bonuses that your character can receive based on their stats. They are kind of similar to talents
+- Perks are additional bonuses that your character can receive based on their stats. Just think of AASB talents and that's basically it!
 - ## Current Perk Count: 2
+  collapsed:: true
+	- Remember, your current perk count is your level + 1
 - ## Strength Perks
 - ## Durability Perks
 	- Sturdy: You cannot lose more then 25% of Max HP in a single turn

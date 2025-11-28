@@ -1,6 +1,5 @@
 # Damage Types
-collapsed:: true
-	-
+	- wip :3
 - # Status Effects
 	- Status effects represent temporary or lasting conditions applied during combat, ranging from impairments to buffs. They can alter damage taken or dealt, modify turn order, restrict actions, enhance abilities, or evolve into stronger effects if ignored.
 	- Status effects have two factors, which are **Potency** and **Duration**. Potency determines how strong the effect is, and duration determines how long it lasts. Some durations are not turn values, but instead listed as things such as "until repaired" or "until prior status are removed"
