@@ -3,6 +3,7 @@
 - [[Stat Points & Levels]]
 - [[Status Effects]]
 - [[Perks]]
+- [[Example Sheet]]
 -
 - ## Aether Reminder: How to Publish Changes
 	- 1: Git Add
