@@ -2,4 +2,4 @@
 - ## Rafaela's Abilities
 	- [[Scythe]]
 	- [[Reaper Augmentation]]
-	-
+	- [[Bloodhunt]]
