@@ -16,10 +16,12 @@
 	  Hero 2 uses Beretta 92 and does 15 damage to Villain 2!
 	- In an actual encounter, the villain team would get to roll for their own defensive actions, but I got lazy :p
 - ## Part 3: Applying Status
+  collapsed:: true
 	- After the hero team used their attacks, it is now time to apply status effects. As players, you all don't need to worry about this since the DM will handle this part for you, but knowing how to apply status effects can be very beneficial, so make sure you read up and know how to kill the enemy better!
 	- Villain 1 is inflicted with Bleeding(1)
-	  Villain 2 is inflicted with Bleeding(3)
+	  Villain 2 is inflicted with Bleeding(2)
 - ## Part 4: Defending State
+  collapsed:: true
 	- Now it is the villains turn to attack. After the villain team chooses which attacks to use, the hero team can decide how they want to attempt to defend from the attacks.
 	- Villain 1 is using Evil Drain with a roll of 16 aimed at Hero 1
 	  Villain 1 is using Wicked Blow with a roll of 12 aimed at Hero 2

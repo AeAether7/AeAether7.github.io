@@ -1,12 +1,13 @@
 ## Character Creation Tools
 - [[Specialization]]
 - [[Stat Points & Levels]]
-- [[Status Effects & Damage Types]]
 - [[Perks]]
 - [[Character Format]]
 - ## Combat
 - [[Combat System]]
-- ## Other
+- [[Status Effects & Damage Types]]
+- ## Setting Information
+- [[Setting]]
 - [[NPC List]]
 -
 - ## Aether Reminder: How to Publish Changes

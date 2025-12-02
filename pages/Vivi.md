@@ -1,4 +1,6 @@
 - The Mechanic. She is the one who is responsible for the maintenance and repair of all the androids, as well as their equipment and any other needs they may have. Despite the fact that she was given a fully functional office with top-notch equipment, she still prefers to work in the company garage.
+  As much as she jokes around and seldom takes things seriously, she is still a top notch mechanic and is the backbone of the android project. Without her, the company would still be pondering over blueprints.
+- The furthest garage of the company vehicle bay has been entirely claimed by her. She has all her personal belongings on the upper deck, and with some help from her coworkers and other androids, has fully refurbished the place to act as her own little hideaway.
 - ## Image
   collapsed:: true
 	- ![Descubre 18 ideas de Tomioka fem 🌊🎐 y personajes de anime | dibujos de anime, dibujos bonitos, dibujos animados bonitos y más](https://i.pinimg.com/originals/10/9e/4e/109e4e4931935fb7fbb332e16be9e8f8.jpg)
