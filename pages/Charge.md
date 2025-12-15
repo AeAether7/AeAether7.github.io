@@ -1,2 +1,3 @@
 - Charge is the meter that you use to unleash skills or special abilities
-- The starting charge value for all characters is 10, and the starting charge regeneration rate is 1 charge per turn
+- The starting charge value for all characters is 5, and charge regeneration rate is fixed at 1 charge per turn.
+- Every 5 points invested into energy will yield an extra point of maximum charge

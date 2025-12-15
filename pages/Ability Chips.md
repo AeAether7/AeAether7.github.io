@@ -1,0 +1,1 @@
+- Ability chips are what allow your character to use their skills!

@@ -1,0 +1,2 @@
+- Energy is the meter that you use to unleash skills or special abilities
+- The starting charge value for all characters is 5, and  charge regeneration rate is fixed at 1 charge per turn.

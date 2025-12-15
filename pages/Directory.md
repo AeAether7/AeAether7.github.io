@@ -2,6 +2,7 @@
 - [[Specialization]]
 - [[Stat Points & Levels]]
 - [[Perks]]
+- [[Ability Chips]]
 - [[Character Format]]
 - ## Combat
 - [[Combat System]]
