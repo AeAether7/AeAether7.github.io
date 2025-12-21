@@ -1,3 +1,1 @@
-- Raptor is a aerial based [[Specialization]] with emphasis on crowd control. What it lacks in defense is compensated for with mobility and overwhelming firepower
-- ## Ithaca's Abilities
-	- [[Raptor Chassis]]
+- Raptor is a aerial based specialization with emphasis on crowd control. What it lacks in defense is compensated for with mobility and overwhelming firepower.

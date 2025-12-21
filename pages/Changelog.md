@@ -1,0 +1,17 @@
+## December 21, 2025
+- Added Changelog
+- Added [[Ability List]] Page
+	- Added Familiar Drone and Combat Barrier as Generalist Abilities
+- Started revisions on [[Combat System]]
+- Removed HP Regen
+- Changed Stat Scaling for various stats
+	- Speed (5->6)
+	- Damage (5->4)
+- ### [[NPC List]]
+	- ([[Rafaela Silva]]) Fixed incorrect stat values and added an image
+	- ([[Judith Watson]]) Imported stats and added an image
+	- ([[Lynn Io]]) Imported stats and added an image
+	- ([[Kiyara Rin]]) Imported stats and added an image
+	- ([[Ithaca]]) Imported stats and added an image
+		- Backstory and Personality for NPCS will come later once more stat stuff is done
+-

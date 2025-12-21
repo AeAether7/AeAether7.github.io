@@ -1,0 +1,24 @@
+- Name: Ithaca
+- Height: 6'8"
+- Age: 32
+- Place of Origin: Greece
+- ---
+- Personality:
+	-
+- Backstory:
+	-
+- ---
+- ### Specialization: Raptor
+	- Raptor is a aerial based specialization with emphasis on crowd control. What it lacks in defense is compensated for with mobility and overwhelming firepower
+- ### Level: 37
+	- Strength: 120
+	- Durability: 44
+	- Agility: 72
+	- Energy: 60
+- ### Perks:
+	-
+- ### Abilities:
+	-
+- ---
+- ### Image
+	- ![](https://pbs.twimg.com/media/E-mj6oxVIA0u5U5.jpg)

@@ -7,10 +7,12 @@
 - ## Combat
 - [[Combat System]]
 - [[Status Effects & Damage Types]]
+- [[Ability List]]
 - ## Setting Information
 - [[Setting]]
 - [[NPC List]]
--
+- ## Other
+- [[Changelog]]
 - ## Aether Reminder: How to Publish Changes
 	- 1: Git Add
 	- 2: Git Commit -m "Commit"

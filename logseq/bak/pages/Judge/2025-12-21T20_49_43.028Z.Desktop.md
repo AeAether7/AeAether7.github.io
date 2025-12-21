@@ -1,0 +1,6 @@
+- The Judge is a defense [[Specialization]] that focuses more on protecting and punishing those who come close then going on the offence. While offering great protection and counterattacking options, it lacks the ability to go on the offensive without help from allies.
+- ## Judith's Abilities
+	- [[Gavel]]
+	- [[Jury]]
+	- [[Executioner]]
+	- [[Verdict]]

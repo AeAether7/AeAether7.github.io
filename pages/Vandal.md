@@ -1,5 +1,1 @@
-- Vandal is a support focused [[Specialization]] that uses art and paint to apply temporary buffs to allies and debuffs to enemies. While capable of greatly supporting allies, it lacks the ability to meaningful damage and relies of allies to both attack and protect.
-- ## Lynn's Abilities
-	- [[Spraycan]]
-	- [[Inspire]]
-	- [[Tattoo]]
+- Vandal is a support focused specialization that uses art and paint to apply temporary buffs to allies and debuffs to enemies. While capable of greatly supporting allies, it lacks the ability to meaningful damage and relies of allies to both attack and protect.

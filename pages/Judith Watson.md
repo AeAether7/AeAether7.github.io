@@ -1,0 +1,24 @@
+- Name: Judith Watson
+- Height: 6'4
+- Age: 58
+- Place of Origin: England
+- ---
+- Personality:
+	-
+- Backstory:
+	-
+- ---
+- ### Specialization: Judge
+	- The Judge is a defense specialization that focuses more on protecting and punishing those who come close then going on the offensive. While offering great protection and counterattacking options, it lacks the ability to attack without help from allies.
+- ### Level: 14
+	- Strength: 14
+	- Durability: 60
+	- Agility: 18
+	- Energy: 20
+- ### Perks:
+	-
+- ### Abilities:
+	-
+- ---
+- ### Image
+	- https://i.pinimg.com/736x/b9/aa/b9/b9aab933bc023eb2f5652ab314f53aec.jpg

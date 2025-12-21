@@ -1,0 +1,24 @@
+- Name: Kiyara Rin
+- Height: 5'2"
+- Age: 20
+- Place of Origin: Japan
+- ---
+- Personality:
+	-
+- Backstory:
+	-
+- ---
+- ### Specialization: Railgunner
+	- The Railgunner is a high damage, single target attacker that excels at dealing with threats from long range. While their power is extremely high, they struggle to deal with swarms or evasive targets that can dodge their precise attacks.
+- ### Level: 10
+	- Strength: 40
+	- Durabilty: 10
+	- Agility: 10
+	- Energy: 20
+- ### Perks:
+	-
+- ### Abilities:
+	-
+- ---
+- ### Image
+	- ![Rin.jpg](../assets/Rin_1765910020340_0.jpg)

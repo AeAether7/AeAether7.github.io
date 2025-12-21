@@ -1,1 +1,2 @@
 - Ability chips are what allow your character to use their skills!
+- To access a list of all current abilities, check out [[Ability List]]

@@ -1,0 +1,24 @@
+- Name: Lynn Io
+- Height: 5'5"
+- Age: 23
+- Place of Origin: America
+- ---
+- Personality:
+	-
+- Backstory:
+	-
+- ---
+- ### Specialization: Vandal
+	- Vandal is a support focused specialization that uses art and paint to apply temporary buffs to allies and debuffs to enemies. While capable of greatly supporting allies, it lacks the ability to meaningful damage and relies of allies to eliminate enemies and provide protection.
+- ### Level: 8
+	- Strength: 10
+	- Durability: 8
+	- Agility: 32
+	- Energy: 14
+- ### Perks:
+	-
+- ### Abilities:
+	-
+- ---
+- ### Image
+	- https://i.pinimg.com/736x/82/47/3f/82473fe8abe94fb580f02a1e13c2c173.jpg

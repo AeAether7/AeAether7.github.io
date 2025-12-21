@@ -1,0 +1,3 @@
+- Energy is one of the four main stat points that your character will be able to invest in.
+- Every 1 point in energy will raise max [[Charge]] by 1 point
+- Every 5 points in energy will raise [[Charge]] Regeneration rate by 1 point per turn

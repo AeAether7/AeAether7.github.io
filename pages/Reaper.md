@@ -1,5 +1,1 @@
-- The reaper is a close range brawler [[Specialization]] that uses their own health to use abilities. They gain increased health and regeneration at the cost of not being able to use energy. While incredibly strong, they rely on a constant supply of enemies to sustain themselves and their abilities.
-- ## Rafaela's Ability Chips
-	- [[Scythe]]
-	- [[Reaper Augmentation]]
-	- [[Bloodhunt]]
+- The reaper is a close range brawler that uses their own health to use abilities. They gain increased health and passive regeneration at the cost of not being able to use energy. While incredibly strong, they rely on a constant supply of enemies to sustain themselves and their abilities.

@@ -1,3 +1,1 @@
-- The Railgunner is a high damage, single target [[Specialization]] attacker that excels at dealing with threats from long range. While their power is extremely high, they struggle to deal with swarms or evasive targets that can dodge their precise attacks.
-- ## Rin's Abilities
-	- [[Railcannon]]
+- The Railgunner is a high damage, single target attacker that excels at dealing with threats from long range. While their power is extremely high, they struggle to deal with swarms or evasive targets that can dodge their precise attacks.
